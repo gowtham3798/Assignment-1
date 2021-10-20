@@ -1,0 +1,31 @@
+OBJECT:
+           An object is an element (or instance) of a class; objects have the behaviors of their class. The object is the actual component of programs,
+while the class specifies how instances are created and how they behave.An object has state (data) and behavior (code).
+An object, is a reference data type. Variables that are assigned a reference value are given a reference or a pointer to that value.
+ That reference or pointer points to the location in memory where the object is stored. The variables don’t actually store the value.
+ 
+  OBJECTS and PROPERTIES:
+1.A JavaScript object has properties associated with it. You access the properties of an object with a simple dot-notation
+          Eg. objectName.propertyName
+2.You can define a property by assigning it a value.
+          Eg.var myCar = new Object();
+              myCar.make = 'Ford';
+3.Unassigned properties of an object are undefined (not null).
+
+Difference between HTTP 1.1  VS  HTTP 2
+
+HTTP 1.1:
+Developed by Timothy Berners-Lee in 1989.
+HTTP/1.1 came to existence in 1997. 
+It is a TCP/IP based protocol.
+TCP helps  to establish and maintain a network conversation by which applications can exchange data.
+TCP works with the Internet Protocol (IP), which defines how computers send packets of data to each other.
+HTTP is a network delay sensitive protocol in the sense that if there is less network delay, then the page loads faster.
+
+HTTP 2:
+HTTP/2 was developed by the HTTP Working Group of the Internet Engineering Task Force (IETF).
+I came into existence from 2015. 
+it is a SPDY based Protocol.
+SPDY manipulates HTTP traffic, with particular goals of reducing web page load latency and improving web security.
+HTTP2 is much faster and more reliable than HTTP1.
+HTTP2 avoids network delay by using multiplexing.
