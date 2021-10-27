@@ -1,3 +1,16 @@
+To read:
+https://stackoverflow.com/questions/1517582/what-is-the-difference-between-statically-typed-and-dynamically-typed-languages
+https://stackoverflow.com/questions/17253545/scripting-language-vs-programming-language
+https://cs.lmu.edu/~ray/notes/paradigms/
+Write a blog on Difference between HTTP1.1 vs HTTP2
+Write a blog about objects and its internal representation in Javascript
+codekata practice
+
+
+
+
+
+3.
 OBJECT:
            An object is an element (or instance) of a class; objects have the behaviors of their class. The object is the actual component of programs,
 while the class specifies how instances are created and how they behave.An object has state (data) and behavior (code).
@@ -5,14 +18,16 @@ An object, is a reference data type. Variables that are assigned a reference val
  That reference or pointer points to the location in memory where the object is stored. The variables don’t actually store the value.
  
   OBJECTS and PROPERTIES:
-1.A JavaScript object has properties associated with it. You access the properties of an object with a simple dot-notation
+    1.A JavaScript object has properties associated with it. You access the properties of an object with a simple dot-notation
           Eg. objectName.propertyName
-2.You can define a property by assigning it a value.
+    2.You can define a property by assigning it a value.
           Eg.var myCar = new Object();
               myCar.make = 'Ford';
-3.Unassigned properties of an object are undefined (not null).
+    3.Unassigned properties of an object are undefined (not null).
 
-Difference between HTTP 1.1  VS  HTTP 2
+
+
+2.Difference between HTTP 1.1  VS  HTTP 2
 
 HTTP 1.1:
 Developed by Timothy Berners-Lee in 1989.
